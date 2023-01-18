@@ -23,14 +23,14 @@ minimal_mistakes_skin    : "aqua" #"default" "air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jingwen Tong's Homepage"
+title                    : "Minghui Min's Homepage"
 title_separator          : "-"
-subtitle                 : "The Multi-Armed Bandit and Its Applications"
+subtitle                 : "Location Privacy Protection"
 name                     : "jwentong"
 description              : "An amazing website."
-url                      : "https://jwentong.github.io/" # protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://271828mmhui.github.io/" # protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : jwentong/jwentong.github.io #e.g. "mmistakes/minimal-mistakes"
+repository               : 271828mmhui/271828mmhui.github.io #e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/Favicon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -111,7 +111,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Jingwen Tong"
+  name             : "Dr. Minghui Min"
   avatar           : "/assets/images/JingwenTong1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "School of Informatics, Xiamen University"
   email            : "eejwentong@ust.hk"
