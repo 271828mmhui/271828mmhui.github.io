@@ -3,10 +3,10 @@ layout: archive
 author_profile: true
 ---
 
-**Lecturer**
+**Lecturer / Postdoc**
 
 {: .text-justify} 
-Department of Electronic and Computer Engineering (ECE) 
+School of Information and Control Engineering
 
 {: .text-justify}
 China University of Mining and Technology (CUMT) 
