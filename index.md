@@ -3,13 +3,13 @@ layout: archive
 author_profile: true
 ---
 
-**Postdoc. Fellow**
+**Lecturer**
 
 {: .text-justify} 
-Department of Electronic and Computer Engineering (ECE) jlalgljlkjalgkjl
+Department of Electronic and Computer Engineering (ECE) 
 
 {: .text-justify}
-The Hong Kong University of Science and Technology (HKUST) 
+China University of Mining and Technology (CUMT) 
 
 {: .text-justify}
 *Jingwen Tong* received his B.E. degree in the Department of Communication Engineering from China Jiliang University, Hangzhou, China, in 2015, and the M.S. degree in the Department of Information and Communication Engineering from Ningbo University,
