@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://jwentong.github.io/
+    url: https://mhuimin.github.io/
   - title: "Service"
     url: /service/ 
   - title: "Honor"
@@ -9,5 +9,5 @@ main:
   - title: "MAB"
     url: /mab/ 
   - title: "Google Scholar"
-    url: https://scholar.google.com/citations?user=4Bvv2zMAAAAJ&hl=zh-CN
+    url: https://scholar.google.com/citations?user=oqEBaUcAAAAJ&hl=en
 
