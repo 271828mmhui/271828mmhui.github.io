@@ -71,7 +71,6 @@ His main research interests include multi-armed bandit (MAB), wireless communica
 
 
 
-![test](https://github.com/jwentong/jwentong.github.io/raw/master/assets/images/JingwenTong1.jpg)
 
 
 
