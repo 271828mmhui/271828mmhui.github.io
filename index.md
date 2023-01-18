@@ -3,7 +3,7 @@ layout: archive
 author_profile: true
 ---
 
-### Lecturer
+**Lecturer**
 
 {: .text-justify} 
 Department of Electronic and Computer Engineering (ECE) 
